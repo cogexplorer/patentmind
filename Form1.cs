@@ -5,9 +5,11 @@
 // Author: Zhuang, Chao
 // Date: 2010/10/20
 // Copyright 2010   Version0.7
-// Cogexplorer Design Studio, All Rights Reserved
+// Cogexplorer Design Studio, 
 //
-// Copyright 2012-3-18 Version 1.0
+// Copyright 2012-3-18
+// Open Source code, Using GPLv2.0 license.
+
 
 using System;
 using System.Collections.Generic;
