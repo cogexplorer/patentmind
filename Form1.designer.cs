@@ -4,9 +4,10 @@
 // Author: Zhuang, Chao
 // Date: 2010/10/20
 // Copyright 2010 
-// Digital Cogexplorer Lab, All Rights Reserved
+// Cogexplorer Design Studio, 
 // Date:2012-3-18   Version 1.0
 //
+// Open Source, Using GPLv2.0 License
 
 namespace PatentMind
 {
